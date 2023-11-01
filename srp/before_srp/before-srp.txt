@@ -1,0 +1,4 @@
+class Login consists
+1. login()
+2. authenticate()
+3. verify()
